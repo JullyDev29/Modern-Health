@@ -1,0 +1,360 @@
+#formIMC{
+    width: 30%;
+    margin-left: -40%;
+    margin-top: 70px;
+    visibility: visible;
+    display: inline-block;
+    
+}
+
+#jumboAll{
+   
+    background-color: lightskyblue;       
+    margin-bottom: 1%;
+    width: 15%;
+    padding: 1%;
+    display: inline-block;  
+    margin-left: 8%; 
+    vertical-align: top; 
+    margin-top: 5%;
+    visibility: hidden;
+}
+
+#seuImc{
+    font-size: 0.5em;
+    margin-top: -20%;
+}
+
+#botaoImc{
+    margin-left: 40%;    
+    border-color: #049DBF;    
+    background-color: #049DBF;
+    vertical-align: top;
+    margin-bottom: 20%;
+    display: inline-block;
+}
+
+
+#botaoImc:hover{
+    opacity: 80%;
+}
+
+
+
+#resultIMC{
+    font-weight: bold;
+}
+
+#resultadosIMC{
+    margin-top: 10%;
+   
+}
+
+#allImc{
+    margin-bottom: 5%;   
+    visibility: visible; 
+}
+
+#seuIMC{
+    height: 10%;
+}
+
+#btnCalc {
+    background-color: #049DBF;
+    border-color: #049DBF;
+    font-size: 1em;
+    margin-left: 38%;
+}
+
+#btnCalc:hover {
+    opacity: 75%;
+
+}
+
+#clienteNome{
+    font-weight: bold;
+    margin-bottom: 0%;
+    border-style: none;
+    font-size: 2em;
+}
+
+#imcSlim{
+    visibility: hidden;
+    position: absolute;
+    top: 90%;
+    left: 65%;
+    
+}
+
+#imcNormal{
+    visibility: hidden;
+    position: absolute;    
+    top: 90%;
+    left: 65%;
+}
+
+#imcMedium{
+    visibility: hidden;
+    position: absolute;    
+    top: 90%;
+    left: 65%;
+}
+
+#imcHigh{
+    visibility: hidden;
+    position: absolute;    
+    top: 90%;
+    left: 65%;
+}
+#imcUltra{
+    visibility: hidden;
+    position: absolute;    
+    top: 90%;
+    left: 65%;
+}
+
+#textCardAll{
+    font-size: 26px;
+    
+    color:#8C2756;
+}
+
+#numeroImc{
+    height: 150%;
+    width: 150%;
+    font-size: 1em;
+    padding: 10%;
+    margin-left: 115%;
+    margin-top: 5%;
+}
+
+#botaoSaiba{
+    text-align: center;        
+}
+
+#tamanhoImc{    
+    margin: 0 auto;
+    display: inline-block;    
+}
+
+#fundoSaiba{
+    background-color:#049DBF;
+    
+}
+
+#card1 {
+    background-color: lightgray;
+    
+}
+
+#infoImc {
+    width: 100%;
+    margin-top: 3%;
+    margin-left: 17%;
+}
+
+#desnuP {
+    color: white;
+    font-size: 1em;
+}
+
+#normalP{
+    color: white;
+    font-size: 1em;
+}
+
+#sobreP{
+    color: white;
+    font-size: 1em;
+}
+
+#obesP{
+    color: white;
+    font-size: 1em;
+}
+
+#morbP{
+    color: white;
+    font-size: 1em;
+}
+
+
+#desnuItem{
+    background-color: #049DBF;
+    width: 14%;
+    padding: 1%;
+    margin-right: 0.5%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#desnuItem:hover{
+    width: 13%;
+    margin-left: 0.5%;
+}
+
+#normalItem{
+    background-color: #049DBF;
+    width: 14%;
+    padding: 1%;
+    margin-right: 0.5%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#normalItem:hover{
+    width: 13%;
+    margin-left: 0.5%;
+}
+
+#sobreItem{
+    background-color: #049DBF;
+    width: 14%;
+    padding: 1%;
+    margin-right: 0.5%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#sobreItem:hover{
+    width: 13%;
+    margin-left: 0.5%;
+}
+
+#obesItem{
+    background-color: #049DBF;
+    width: 14%;
+    padding: 1%;
+    margin-right: 0.5%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#obesItem:hover{
+    width: 13%;
+    margin-left: 0.5%;
+}
+
+#morbItem{
+    background-color: #049DBF;
+    width: 14%;
+    padding: 1%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#morbItem:hover {
+    width: 13.5%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+#pills-desnutri{
+    visibility: hidden;
+}
+
+#pills-normal{
+    visibility: hidden;
+} 
+
+#pills-sobre{
+    visibility: hidden;
+}
+
+#pills-obesidade{
+    visibility: hidden;
+}
+
+#pills-morbido{
+    visibility: hidden;
+}
+
+#infosDesnu{
+    width: 74%;
+    height: 75%;
+    background-color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    padding: 1%;
+    
+}
+
+
+#infosNormal{
+    width: 74%;
+    height: 75%;
+    background-color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    padding: 1%;
+}
+
+#infosSobre{
+    width: 74%;
+    height: 75%;
+    background-color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    padding: 1%;
+}
+
+#infosObes{
+    width: 74%;
+    height: 75%;
+    background-color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    padding: 1%;
+}
+
+#infosMorb{
+    width: 74%;
+    height: 75%;
+    background-color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    padding: 1%;
+}
+
+#tituloInfo {
+    margin-left: 20%;
+    
+    margin-bottom: 2%;
+    font-weight: bold;
+    color: #049DBF;
+}
+
+    
+
+#desnu1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#desnu2 {
+    font-weight: bold;
+}
+
+#desnu3{
+    font-weight: bold;
+}
+
+#desnu4{
+    font-weight: bold;
+}
+
+#normal1{
+    font-weight: bold;
+}
+
+#sobre1 {
+    font-weight: bold;
+}
+
+#obesidade1{
+    font-weight: bold;
+}
+
+#morbido1{
+    font-weight: bold;
+}
