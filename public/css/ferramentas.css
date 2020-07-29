@@ -1,0 +1,77 @@
+
+@media (max-width: 600px){
+    .logo{
+        width: 100%;
+        display: block;
+        
+    }
+}
+
+@media (max-width: 600px){
+    #menuBan{
+        display: inline-block;
+        position: absolute;
+        top: 55%; 
+        width: 100%;
+        left: 2%;
+        margin-top: 5%;
+        }
+ }     
+  
+
+@media (max-width: 600px){
+   .mainMenu{
+    margin-top: 30%;
+    margin-left: 5%;
+   }
+
+    #conteudo{
+        width: 100%;
+        text-align: left;
+        
+    }
+}
+
+
+@media (max-width: 600px){
+    #carrosseel{
+        display: none; 
+    }    
+}
+
+@media (max-width: 1600px){
+    #carrosseel{
+        display: none;
+    }
+}
+
+@media (max-width: 600px){
+    #botaoNews{
+        width: 90%;
+        margin-left: 5%;
+    }
+    #divDropdown{
+        width: 100%;
+    }
+    #colunas{
+        width: 100%;
+    }
+
+    #botaoNews:hover{
+        width: 90%;
+        margin-left: 6%;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width: 600px){
+    .navbar-toggler{
+        position: absolute;
+        left: 20%;
+    }
+}

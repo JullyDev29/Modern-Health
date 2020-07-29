@@ -1,0 +1,58 @@
+#cadastroTit{
+    margin-left: 45%;
+    margin-top: 5%;
+    font-weight: bold;
+}
+
+#labelName{
+    margin-left: 20%;
+    margin-top: 5%;
+    font-weight: bold;
+}
+
+#formName{
+    margin-left: 19.8%;
+    margin-top: 1%;
+    width: 40%;
+}
+
+#nameHelp{
+    margin-left: 20%;
+}
+
+#labelEmail{
+    margin-left: 20%;    
+    font-weight: bold;
+}
+
+#formEmail{
+    margin-left: 19.8%;    
+    width: 40%;
+}
+
+#emailHelp{
+    margin-left: 20%;
+}
+
+#labelSenha{
+    margin-left: 20%;    
+    font-weight: bold;
+}
+
+#formSenha{
+    margin-left: 19.8%;    
+    width: 40%;
+}
+
+#checkTermo{
+    margin-left: 19%;
+}
+
+#textTermo{
+    margin-left: 21%;
+}
+
+#sendCad{
+    margin-left: 20%;
+    margin-bottom: 2%;
+}

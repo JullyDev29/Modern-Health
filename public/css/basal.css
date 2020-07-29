@@ -1,0 +1,109 @@
+#allBasal{
+    width: 40%;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+#idadeBasal{
+    font-weight: bold;
+    margin-left: 45%;
+    font-family: 'Montserrat', sans-serif;
+}
+#pesoInput{
+    margin-top: 2%;
+}
+
+#pesoBasal{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 45%;
+}
+
+#kg{
+    margin-left: 35%;
+}
+
+#alturaBasal{
+    font-weight: bold;
+    margin-left: 30%;
+    font-family: 'Montserrat', sans-serif;       
+}
+
+
+
+#alturaInput{
+    margin-top: 2%;
+}
+
+#gender{
+    font-weight: bold;
+    margin-left: 1%;    
+}
+
+#blocoGender{
+    display: inline-block;
+    width: 90%;   
+    margin-left: 5%;
+    margin-bottom: 8%;    
+    font-weight: bold;
+}
+
+#botaoBasal{
+    margin-left: 40%;    
+    background-color: #049DBF;
+    border-color: #049DBF;
+    width: 45%;
+    height: 120%;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: white;
+    position: absolute;
+    top: 1%;
+
+  
+}
+
+#botaoBasal:hover{
+    width: 50%;
+    margin-left: 38%;
+}
+
+#textNews{
+    font-size: 0.8em;
+}
+
+#allResultBasal{
+    width: 20%;
+    position: absolute;
+    right: 25%;
+    top: 85%;
+    
+}
+
+#basalHomem{
+    background-color:#05AFF2;
+    border-color: white;
+    font-weight: bold;
+    visibility: hidden;
+}
+
+#basalMulher{
+    background-color: #F280BF;
+    border: solid 2px white ;
+    color: white;
+    font-weight: bold;
+    visibility: hidden;
+}
+
+#subClassM{
+    color: white;
+    font-weight: bold;
+}
+
+#resultHomem{
+    margin-left: 20%;
+}
+
+#resultMulher{
+    margin-left: 20%;
+}

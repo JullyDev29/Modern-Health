@@ -1,0 +1,84 @@
+#categs{
+    margin-left: 43.4%;    
+}
+
+#botaoNews{
+    margin-bottom: 5%;
+}
+
+#botaoNews:hover{
+    text-decoration: none;
+    width: auto;        
+}
+
+a:hover{
+    text-decoration: none;
+}
+#destaques{
+    margin-left: 43.4%;
+}
+
+#newsStoreItem{
+    margin-left: 8%;
+    margin-top: 5%;
+}
+
+#destaquesItem1{
+    border-radius: 40px;
+    display: inline-block;
+    margin-right: 8%;
+    margin-bottom: 5%;
+}
+
+#visitarDestaque{
+    margin-left: 20%;
+}
+
+#price{
+    text-align: center;
+    font-weight: bold;
+}
+
+#imgCardCat{
+    height: 220px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+#catEmagrecimento{
+    margin-left: 44%;
+    margin-bottom: 5%;
+}
+
+#catBeleza{
+    margin-left: 43.5%;
+    margin-bottom: 5%;
+}
+
+#catMaromba{
+    margin-left: 46.5%;
+    margin-bottom: 5%;
+}
+
+#emaItem{
+    border-radius: 40px;
+    display: inline-block;
+    margin-right: 8%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+#imgEmag{
+    height: 220px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+#priceProd{
+    text-align: center;
+    font-weight: bold;
+}
+
+#conteudo{
+    margin-left: 11%;
+}

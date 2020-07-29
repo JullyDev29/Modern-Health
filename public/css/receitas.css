@@ -1,0 +1,185 @@
+#imgCard{
+    height: 300px;
+}
+
+#cardCorpo{
+    height: 200px;
+    border-radius: 40px;
+}
+
+#textoTituloCard{
+    text-align: center;
+}
+
+#imgRecipes{
+    height: 250px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+#cardCorp{
+    height: 100px;
+    
+}
+
+#cardSize{
+    border-radius: 40px;
+    margin-right: 1%
+}
+
+#cardRecipe{
+    width: 300px;
+    margin-right: 20%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+#btnReceita{
+    background-color: #049DBF;
+    margin-left: 120%;
+
+}
+
+
+#btnReceita{
+    margin-left: 11%;
+}
+
+#contRecipe{
+    background-color: #049DBF;
+    border: solid  1px #049DBF;
+    width: 1200%;  
+    border-radius: 40px;  
+    overflow-y: scroll;
+    height: 800px;
+    
+   
+}
+
+#receitaTit{
+    font-size: 2em;
+    margin-left: 36%;
+    margin-top: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+#preparo{
+    font-size: 1.4em;
+    position: absolute;
+    top: 73%;
+    right: 50%;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+}
+
+#ingredientes{
+    display:inline-block;
+    margin-left: 10%;
+    margin-top: 8%;
+    font-weight: bold;
+    color: white;
+
+}
+
+#receitaCont{
+    margin-left: 1%;
+    margin-top: 101%;
+    color: white;
+    display: inline-block;
+    position: absolute;
+    top:20%;
+    left: 1%;
+    font-size: 1.2em;
+    
+}
+
+#preparoCont{
+    margin-left: 5%;
+    margin-top: 2%;
+    color: white;
+}
+
+#imagemReceita{
+    width: 35%;
+    height: auto;
+    margin-left: 55%;
+    margin-top: 8%;
+    display: inline-block;
+    border-radius: 40px;
+}
+
+#alerta{
+    color: white;
+    margin-left: 2% ;
+}
+
+#colunas{
+    padding-right: 25%;
+    
+}
+
+#colunaMain{
+    width: 150%;
+    margin-left: 0%;
+}
+#card1{
+    margin-right: 20%;
+}
+
+#btns{
+    margin-left: 23%;    
+}
+
+#divReceitas{
+    width: 90%;
+    height: 900px;
+    background-color: lightskyblue;
+    margin-left: 5%;
+    padding-bottom: 0.5%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-top: 2%;
+    border-radius: 40px;
+    
+}
+
+#envie{
+    margin-left: 80%;
+    font-size: 1.2em;
+
+}
+
+#botaoVisitarRec{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+#cardCorpoRec{
+    background-color: lightskyblue;
+    border-bottom-left-radius: 40px;
+    
+}
+
+#botaoVoltar{
+
+margin-left: 10%;
+border-color: #049DBF;
+font-size: 1.2em;
+background-color: #049DBF;
+margin-bottom: 1%;    
+display:block;
+border: solid 1px #049DBF;
+border-radius: 40px;
+width: 10%;
+height: 40px;
+font-weight: bold;
+color: white;
+text-decoration: none;
+}
+
+#botaoVoltar :hover{
+    text-decoration: none;
+}
