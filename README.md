@@ -1,6 +1,6 @@
 # Modern-Health
 
-This project consist in a "multipage" application, the main subject is healthy food and ealthy lifestyle.
+This project consist in a "multipage" application, the main subject is healthy food and Healthy lifestyle.
 
 In this page user can find healthy recipes, tools like food nutrition information, base metabolism and other.
 
